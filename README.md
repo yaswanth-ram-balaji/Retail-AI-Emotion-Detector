@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is a modern web application that uses emotion recognition AI to analyze users' emotional states via camera or uploaded images. It leverages a FastAPI backend for AI-powered inference and Supabase for authentication, real-time database, and profile management.
+This project is a modern web application that provides emotion recognition analytics via camera or uploaded images. It includes mock data simulation for development and uses Supabase for authentication, real-time database, and profile management.
 
 ## Technologies Used
 
@@ -15,7 +15,6 @@ This project is a modern web application that uses emotion recognition AI to ana
 - **Vite** (build tool)
 - **Supabase** (database, auth, real-time)
 - **Shadcn UI** & **Tailwind CSS** (UI/Styling)
-- **FastAPI** (AI backend, must be run separately)
 - **Recharts** (charts/visualizations)
 
 ## Running Locally
@@ -32,9 +31,7 @@ This project is a modern web application that uses emotion recognition AI to ana
    npm run dev
    ```
 
-3. **Make sure the FastAPI server is running** on `localhost:8000`.
-
-4. **Configure Supabase** secrets and settings as needed (see `/supabase` folder).
+3. **Configure Supabase** secrets and settings as needed (see `/supabase` folder).
 
 ## Deployment & Domains
 
@@ -50,7 +47,6 @@ This project is a modern web application that uses emotion recognition AI to ana
 
 - [Lovable Docs](https://docs.lovable.dev/)
 - [Supabase Docs](https://supabase.com/docs/)
-- [FastAPI Docs](https://fastapi.tiangolo.com/)
 
 ---
 
