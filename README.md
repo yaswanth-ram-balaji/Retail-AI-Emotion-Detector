@@ -193,5 +193,3 @@ Run as Maven/Gradle project
 This project demonstrates how **AI + Web Technologies** can transform real-time customer experience in retail.
 It enables **accurate emotion monitoring**, **satisfaction analytics**, and **data-driven decisions** for business improvement.
 
-
-Just tell me!
